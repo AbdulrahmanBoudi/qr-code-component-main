@@ -23,7 +23,7 @@ p {
 }
 
 .img {
-  background: url("images/image-qr-code.png");
+  background: url(".imagesimage-qr-code.png");
   height: 285px;
   width: 285px;
   background-size: contain;
